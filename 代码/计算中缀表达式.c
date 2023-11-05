@@ -1,3 +1,4 @@
+//注意这段代码不支持表达式中含有负数  只支持一位数的计算 后续会改进
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node//链栈 
