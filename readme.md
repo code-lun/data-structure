@@ -10,9 +10,9 @@
 实现原理会在md文档说明(vscode可以打开),也可以把后缀改为txt在记事本阅读,只是阅读起来没有那么舒服
 可以去了解一下markdown的使用   [markdown教程](https://keatonlao.gitee.io/a-study-note-for-markdown/syntax/%E8%AF%A6%E7%BB%86%E7%89%88)
 
+数据结构的话,**建议画画图**,思路会清晰很多,没有思路的话,死磕没用
 
-
-目录:
+**code目录:**
 
 [循环队列](https://github.com/constant-X/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.c)
 
@@ -20,7 +20,16 @@
 
 [括号匹配精简版(无多余注释,只实现功能)](https://github.com/constant-X/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E6%8B%AC%E5%8F%B7%E5%8C%B9%E9%85%8D%E9%97%AE%E9%A2%98(%E7%B2%BE%E7%AE%80%E7%89%88).c)
 
+[计算中缀表达式](https://github.com/constant-X/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F.c)
+
+
+
+**算法逻辑目录:**
+
+[计算中缀表达式的算法逻辑](https://github.com/constant-X/data-structure/blob/main/Code%20Logic/%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%BB%A3%E7%A0%81%E9%80%BB%E8%BE%91.md)
+
 
 
 ---
+
 *不定时更新*
