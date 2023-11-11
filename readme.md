@@ -21,7 +21,7 @@
 [括号匹配精简版(无多余注释,只实现功能)](https://github.com/constant-X/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E6%8B%AC%E5%8F%B7%E5%8C%B9%E9%85%8D%E9%97%AE%E9%A2%98(%E7%B2%BE%E7%AE%80%E7%89%88).c)
 
 [计算中缀表达式](https://github.com/constant-X/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%BC%80%E8%A1%A8%E8%BE%BE%E5%BC%8F.c)
-
+[链队列](https://github.com/code-lun/data-structure/blob/main/%E4%BB%A3%E7%A0%81/%E9%93%BE%E9%98%9F%E5%88%97.c)
 
 
 **算法逻辑目录:**
